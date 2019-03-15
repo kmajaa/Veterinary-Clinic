@@ -1,4 +1,4 @@
-# Veterinary-Clinic
+# Veterinary Clinic
 
 Zasady:
 
